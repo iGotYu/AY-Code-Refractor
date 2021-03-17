@@ -2,7 +2,7 @@
 
 ## Overview
 
-Our task for the Code Refractor exercise was to make the html and stylesheet was given more legible and condensed. I proceeded to do the following complete the task.
+Our task for the Code Refractor exercise was to make the website more accessible.I proceeded to do the following complete the task.
 
 ## HTML
 
