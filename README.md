@@ -6,7 +6,7 @@ Our task for the Code Refractor exercise was to make the html and stylesheet was
 
 ## HTML
 
-On the Html side of the assingment I replaced all of the <div> semantics to ones like <nav>, <sections>, <aside>, <main>, etc. that way the code would be more legible. I also had to the alt="" attribute to the images so that the images could be provided an alternate text if the image somehow was unable to be displayed.
+On the Html side of the assingment I replaced all of the "div" semantics to ones like "nav", "sections", "aside", "main", etc. that way the code would be more legible. I also had to the alt="" attribute to the images so that the images could be provided an alternate text if the image somehow was unable to be displayed.
 
 ## CSS
 
